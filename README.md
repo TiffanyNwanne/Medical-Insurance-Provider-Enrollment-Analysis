@@ -4,7 +4,7 @@
 
 This project analyzes **Medical insurance provider enrollment data from [CMS.gov](http://CMS.gov) for Medicare** using **SQL** and **Tableau** to identify key trends in provider categories, specialties, and enrollment distributions.
 
-![Medical Insurance Provider Enrollment  Analysis.png](Medical%20Insurance%20Provider%20Enrollment%20Analysis%2018c4799bb267803688eafd94f471b985/Medical_Insurance_Provider_Enrollment__Analysis.png)
+[![Preview image](https://github.com/TiffanyNwanne/Medical-Insurance-Provider-Enrollment-Analysis/blob/main/images/Medical_Insurance_Provider_Enrollment__Analysis.png))](https://github.com/TiffanyNwanne/Medical-Insurance-Provider-Enrollment-Analysis/blob/main/images/Medical_Insurance_Provider_Enrollment__Analysis.png)
 
 ## Key Findings
 
@@ -33,7 +33,7 @@ This report analyzes **Medicare provider enrollment** using SQL queries and Tabl
 
 ### **SQL Queries & Insights**
 
-![Medical Insurance Provider Enrollment  SQL queries.png](Medical%20Insurance%20Provider%20Enrollment%20Analysis%2018c4799bb267803688eafd94f471b985/Medical_Insurance_Provider_Enrollment__SQL_queries.png)
+[![Preview Image](https://github.com/TiffanyNwanne/Medical-Insurance-Provider-Enrollment-Analysis/blob/main/images/Medical_Insurance_Provider_Enrollment__SQL_queries.png))](https://github.com/TiffanyNwanne/Medical-Insurance-Provider-Enrollment-Analysis/blob/main/images/Medical_Insurance_Provider_Enrollment__SQL_queries.png)
 
 **1. Most Enrolled Specialty**
 
